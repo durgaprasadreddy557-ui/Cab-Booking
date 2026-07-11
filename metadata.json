@@ -1,0 +1,6 @@
+{
+  "name": "UCab",
+  "description": "UCab is a premium, reliable ride-sharing and mobility management system designed for effortless urban travel with transparent pricing, real-time driver tracking, and community ride rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
