@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React from 'react';
 import { Home, History, Wallet, User } from 'lucide-react';
 import { TabType } from '../types';
