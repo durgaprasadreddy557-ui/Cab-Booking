@@ -1,8 +1,3 @@
-/**
- * @license
- * SPDX-License-Identifier: Apache-2.0
- */
-
 import React, { useState, useEffect } from 'react';
 import { ArrowRight, Loader2, Smartphone, ShieldCheck, HeartHandshake } from 'lucide-react';
 import { HOTLINKED_IMAGES } from '../data';
